@@ -12,4 +12,4 @@ def md3422():
     return render_template('md3422.html')
 
 if __name__ == '__main__':
-    app.run(port=8888)
+    app.run()
